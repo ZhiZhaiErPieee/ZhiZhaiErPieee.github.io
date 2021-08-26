@@ -1,4 +1,4 @@
-@charset "utf-8";
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>@charset "utf-8";
 body, html { background: #fafafa }
 #wrap { min-width: 250px; position: absolute }
 .content { position: relative; margin: 130px auto }

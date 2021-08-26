@@ -1,0 +1,31 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>@font-face {
+  font-family: "iconfont"; /* Project id 2729650 */
+  src: url('//at.alicdn.com/t/font_2729650_ms8uq230r88.woff2?t=1628348253505') format('woff2'),
+       url('//at.alicdn.com/t/font_2729650_ms8uq230r88.woff?t=1628348253505') format('woff'),
+       url('//at.alicdn.com/t/font_2729650_ms8uq230r88.ttf?t=1628348253505') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youtubeyoutube7:before {
+  content: "\e73d";
+}
+
+.icon-E-mail:before {
+  content: "\e8aa";
+}
+
+.icon-bilibili-fill:before {
+  content: "\e7c8";
+}
+
+.icon-qq:before {
+  content: "\e631";
+}
+
